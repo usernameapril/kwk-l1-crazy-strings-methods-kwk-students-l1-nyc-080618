@@ -1,4 +1,4 @@
-
+lea 
 # Crazy Strings
 
 That's Nonsense!
